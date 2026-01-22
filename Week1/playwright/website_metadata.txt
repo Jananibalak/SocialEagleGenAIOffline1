@@ -1,0 +1,7 @@
+Website URL: https://socialeagle.ai/
+======================================================================
+
+title: SocialEagle.ai - Build Practical GenAI Skills with Mentors
+name:viewport: width=device-width, initial-scale=1
+name:description: Hands-on GenAI modules, mentor-led learning, project showcases, and MCQ-based certifications. Join the next cohort and master AI skills.
+name:generator: Mohamed Sakeel
