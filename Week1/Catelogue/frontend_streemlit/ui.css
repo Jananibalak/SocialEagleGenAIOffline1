@@ -1,0 +1,172 @@
+/* ------------------------------
+   STREAMLIT RESET
+------------------------------ */
+.block-container {
+  padding-top: 0rem !important;
+  padding-bottom: 2.5rem !important;
+  padding-left: 0rem !important;
+  padding-right: 0rem !important;
+  max-width: 100% !important;
+}
+
+#MainMenu {visibility: hidden;}
+footer {visibility: hidden;}
+header {visibility: hidden;}
+section[data-testid="stSidebar"] { display: none !important; }
+
+/* ------------------------------
+   Diary Pattern Background
+------------------------------ */
+body {
+  background:
+    linear-gradient(#fffdf7 0 0),
+    repeating-linear-gradient(
+      to bottom,
+      rgba(60, 130, 200, 0.09),
+      rgba(60, 130, 200, 0.09) 1px,
+      transparent 1px,
+      transparent 28px
+    );
+}
+
+/* Page wrapper */
+.page {
+  max-width: 1220px;
+  margin: 0 auto;
+  padding: 0px 18px 40px 18px;
+}
+
+/* ------------------------------
+   NAVBAR
+------------------------------ */
+.navbar {
+  position: sticky;
+  top: 0;
+  z-index: 9999;
+  background: rgba(255, 255, 255, 0.85);
+  backdrop-filter: blur(10px);
+  border-bottom: 1px dashed rgba(0,0,0,0.08);
+}
+
+.navbar-inner {
+  max-width: 1220px;
+  margin: 0 auto;
+  padding: 14px 18px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+}
+
+.brand {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-weight: 950;
+  font-size: 18px;
+}
+
+.brand-badge {
+  width: 40px;
+  height: 40px;
+  border-radius: 16px;
+  background: #22c55e;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  font-weight: 950;
+  box-shadow: 0px 5px 0px rgba(0,0,0,0.08);
+}
+
+/* ------------------------------
+   Navbar link buttons (Streamlit button styling)
+------------------------------ */
+.navbtnrow {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  justify-content: flex-end;
+  flex-wrap: wrap;
+}
+
+/* Make Streamlit buttons look like top nav links */
+div[data-testid="column"] button[kind="secondary"] {
+  border: 0px !important;
+  background: transparent !important;
+  font-weight: 900 !important;
+  padding: 6px 10px !important;
+  border-radius: 14px !important;
+  color: #111 !important;
+}
+
+div[data-testid="column"] button[kind="secondary"]:hover {
+  background: rgba(34, 197, 94, 0.12) !important;
+  text-decoration: underline;
+}
+
+/* Doodle primary button */
+.doodle button[kind="primary"] {
+  background: #22c55e !important;
+  border: 2px solid rgba(0,0,0,0.25) !important;
+  border-radius: 18px !important;
+  font-weight: 950 !important;
+  box-shadow: 0px 6px 0px rgba(0,0,0,0.12) !important;
+}
+
+.doodle button[kind="primary"]:active {
+  transform: translateY(2px);
+  box-shadow: 0px 3px 0px rgba(0,0,0,0.12) !important;
+}
+
+/* ------------------------------
+   Cards & forms
+------------------------------ */
+.card {
+  border: 2px dashed rgba(0,0,0,0.14);
+  border-radius: 22px;
+  padding: 18px;
+  background: rgba(255,255,255,0.75);
+  box-shadow: 0px 18px 60px rgba(0,0,0,0.05);
+}
+
+.section-title {
+  font-size: 22px;
+  font-weight: 950;
+  margin: 16px 0px 10px;
+}
+
+/* Center forms */
+.center-wrap {
+  display: flex;
+  justify-content: center;
+}
+
+.center-card {
+  width: min(520px, 100%);
+}
+
+/* Hero */
+.hero {
+  padding: 32px 0px 22px;
+}
+
+.hero-title {
+  font-size: 42px;
+  font-weight: 950;
+  line-height: 1.05;
+  color: #111;
+}
+
+.hero-sub {
+  margin-top: 12px;
+  font-size: 16px;
+  color: #444;
+  line-height: 1.7;
+  max-width: 650px;
+}
+
+/* Mobile */
+@media (max-width: 600px) {
+  .hero-title { font-size: 32px; }
+}

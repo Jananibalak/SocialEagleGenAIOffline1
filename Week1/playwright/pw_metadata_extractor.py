@@ -47,7 +47,7 @@ with sync_playwright() as p:
         pass
 
     # 3) Wait for search box and type query
-    query = "SocialEagle AI"
+    query = "SocialEagle AIsele "
 
     search_box = page.locator("#sb_form_q")
     search_box.wait_for(state="visible", timeout=10000)
