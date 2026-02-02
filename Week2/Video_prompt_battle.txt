@@ -1,0 +1,341 @@
+{
+  "input_type": "image_to_video",
+  "duration_seconds": "5-10",
+  "shot": {
+    "type": "wide shot",
+    "camera_motion": "static",
+    "composition": "elderly couple centered on a low stone wall, orchard stretching into background"
+  },
+  "setting": {
+    "location": "tangerine orchard",
+    "time_of_day": "sunset",
+    "environment_details": [
+      "warm sunset light",
+      "tangerine trees gently swaying",
+      "distant ocean visible on horizon"
+    ]
+  },
+  "characters": [
+    {
+      "role": "wife",
+      "description": "elderly woman with wrinkled but steady hands",
+      "action": "carefully peeling a small tangerine",
+      "emotion": "quiet reflection"
+    },
+    {
+      "role": "husband",
+      "description": "elderly man seated beside her",
+      "action": "looking up toward the sky, chuckling softly",
+      "emotion": "gentle acceptance"
+    }
+  ],
+  "audio": {
+    "ambient_sounds": [
+      "wind rustling through leaves",
+      "distant ocean waves"
+    ],
+    "dialogue": [
+      {
+        "character": "wife",
+        "line": "We worked so hard… but life was never easy, was it?",
+        "delivery": "soft sigh, calm and wistful"
+      }
+    ]
+  },
+  "mood": [
+    "nostalgic",
+    "warm",
+    "melancholic",
+    "intimate"
+  ],
+  "lighting": {
+    "style": "soft natural sunset lighting",
+    "color_temperature": "warm amber and tangerine hues"
+  },
+  "style": {
+    "visual_style": "painterly cinematic realism",
+    "detail_level": "medium",
+    "motion_intensity": "subtle environmental movement only"
+  },
+  "negative_prompt": [
+    "photorealistic",
+    "2D flat anime",
+    "high contrast",
+    "sharp black outlines",
+    "shiny plastic materials",
+    "generic big-studio 3D look",
+    "motion blur artifacts",
+    "messy brushstrokes",
+    "text",
+    "watermark",
+    "dialogue bubbles"
+  ]
+}
+
+{
+  "Intent": "Establish a serene, symbolic opening that introduces the story’s emotional core—comfort, continuity, and togetherness—through the quiet beauty of a golden orchard.",
+  
+  "Context": "The opening moment of the narrative, set in a peaceful tangerine orchard at the edge of a cliff, where nature gently frames the beginning of a lifelong love story before any human presence appears.",
+  
+  "Subject": {
+    "primary": "a single tangerine tree with soft, simplified 3D features",
+    "focus_element": "one vibrant tangerine hanging prominently among branches",
+    "motion_detail": "subtle swaying of branches and leaves in a calm breeze"
+  },
+  
+  "Camera": {
+    "shot_type": "wide to close transition",
+    "movement": "slow lateral dolly tracking through tangerine branches",
+    "end_action": "gentle zoom-in toward the vibrant tangerine",
+    "feel": "floating, steady, and grounded"
+  },
+  
+  "Time": {
+    "time_of_day": "golden hour",
+    "narrative_position": "opening frame of the story"
+  },
+  
+  "Light": {
+    "quality": "low-contrast, diffused golden light",
+    "direction": "soft side-light wrapping around forms",
+    "color_tone": "warm oranges and subtle amber highlights",
+    "atmosphere": "ethereal glow with light bloom at edges"
+  },
+  
+  "Emotion": [
+    "serenity",
+    "comfort",
+    "hope",
+    "gentle anticipation"
+  ],
+  
+  "Pace": {
+    "overall": "slow and calming",
+    "camera_motion": "smooth and unhurried",
+    "environment_motion": "minimal, rhythmic swaying only"
+  },
+  
+  "Constraints": {
+    "duration": "6-8 seconds",
+    "location": "lush cliffside orchard with stylized grass and soft-edged trees",
+    "visual_style": "stylized 3D production with painterly surface shaders, no outlines, soft-brushed textures inspired by Flow (2024)",
+    "animation_rules": "fluid, weight-based 3D animation with no abrupt motion",
+    
+    "negative_prompt": [
+      "photorealistic",
+      "2D flat anime",
+      "high contrast",
+      "sharp black outlines",
+      "shiny plastic materials",
+      "generic big-studio 3D look",
+      "motion blur artifacts",
+      "messy brushstrokes",
+      "watermark",
+      "dialogue bubbles"
+    ]
+  }
+{
+  "Intent": "Deliver a final, contemplative closing moment that symbolizes unity, completion, and peace, ending the story with a sense of timeless togetherness.",
+  
+  "Context": "The final scene of the narrative, where the couple stands at the edge of the world, no longer defined by struggle or time, but by shared presence as the sun disappears beyond the horizon.",
+  
+  "Subject": {
+    "primary": "the couple represented as two soft-edged silhouettes leaning gently against each other",
+    "behavior": "completely still, facing the horizon",
+    "relationship": "deep companionship and lifelong unity"
+  },
+  
+  "Camera": {
+    "shot_type": "extreme wide shot",
+    "movement": "slow crane upward combined with gradual pull-back",
+    "composition_goal": "increase scale and emptiness, emphasizing vast ocean and sky"
+  },
+  
+  "Time": {
+    "time_of_day": "sunset transitioning into dusk",
+    "narrative_time": "final moment, end of the story"
+  },
+  
+  "Light": {
+    "style": "vibrant Flow-style sunset lighting",
+    "color_palette": [
+      "deep purples",
+      "fiery magentas",
+      "soft amber highlights"
+    ],
+    "details": [
+      "painterly light reflecting off orchard leaves",
+      "gradual dimming as the sun disappears"
+    ]
+  },
+  
+  "Emotion": [
+    "peace",
+    "majesty",
+    "closure",
+    "love",
+    "serenity"
+  ],
+  
+  "Pace": {
+    "overall": "very slow and meditative",
+    "camera_motion": "almost imperceptible",
+    "ending": "scene gently fades into soft-focus blur"
+  },
+  
+  "Constraints": {
+    "duration": "8-12 seconds",
+    "environment": "cliffside orchard overlooking a vast, stylized sea with rolling low-poly waves",
+    "visual_style": "high-art 3D production with minimalist geometry and rich layered lighting",
+    "text_instruction": "the word 'Together' appears near the end, drawn letter by letter in curved, typewriter-style strokes, subtle and poetic, signaling the conclusion",
+    "negative_prompt": [
+      "photorealistic",
+      "2D flat anime",
+      "high contrast",
+      "sharp black outlines",
+      "shiny plastic materials",
+      "generic big-studio 3D look",
+      "motion blur artifacts",
+      "messy brushstrokes",
+      "text",
+      "watermark",
+      "dialogue bubbles"
+    ]
+  }
+}
+{
+  "Intent": "Deliver a final, contemplative closing moment that symbolizes unity, completion, and peace, ending the story with a sense of timeless togetherness.",
+  
+  "Context": "The final scene of the narrative, where the couple stands at the edge of the world, no longer defined by struggle or time, but by shared presence as the sun disappears beyond the horizon.",
+  
+  "Subject": {
+    "primary": "the couple represented as two soft-edged silhouettes leaning gently against each other",
+    "behavior": "completely still, facing the horizon",
+    "relationship": "deep companionship and lifelong unity"
+  },
+  
+  "Camera": {
+    "shot_type": "extreme wide shot",
+    "movement": "slow crane upward combined with gradual pull-back",
+    "composition_goal": "increase scale and emptiness, emphasizing vast ocean and sky"
+  },
+  
+  "Time": {
+    "time_of_day": "sunset transitioning into dusk",
+    "narrative_time": "final moment, end of the story"
+  },
+  
+  "Light": {
+    "style": "vibrant Flow-style sunset lighting",
+    "color_palette": [
+      "deep purples",
+      "fiery magentas",
+      "soft amber highlights"
+    ],
+    "details": [
+      "painterly light reflecting off orchard leaves",
+      "gradual dimming as the sun disappears"
+    ]
+  },
+  
+  "Emotion": [
+    "peace",
+    "majesty",
+    "closure",
+    "love",
+    "serenity"
+  ],
+  
+  "Pace": {
+    "overall": "very slow and meditative",
+    "camera_motion": "almost imperceptible",
+    "ending": "scene gently fades into soft-focus blur"
+  },
+  
+  "Constraints": {
+    "duration": "8-12 seconds",
+    "environment": "cliffside orchard overlooking a vast, stylized sea with rolling low-poly waves",
+    "visual_style": "high-art 3D production with minimalist geometry and rich layered lighting",
+    "text_instruction": "the word 'Together' appears near the end, drawn letter by letter in curved, typewriter-style strokes, subtle and poetic, signaling the conclusion",
+    "negative_prompt": [
+      "photorealistic",
+      "2D flat anime",
+      "high contrast",
+      "sharp black outlines",
+      "shiny plastic materials",
+      "generic big-studio 3D look",
+      "motion blur artifacts",
+      "messy brushstrokes",
+      "text",
+      "watermark",
+      "dialogue bubbles"
+    ]
+  }
+}
+ {
+  "Intent": "Show love built through shared hardship, emphasizing endurance, mutual care, and emotional connection formed while working together under difficult conditions.",
+  
+  "Context": "An early chapter of the couple’s life where they work tirelessly, carrying heavy hand-painted woven baskets and sharing a single umbrella, symbolizing unity and resilience in the face of daily struggle.",
+  
+  "Subject": {
+    "primary": "young couple in love",
+    "actions": [
+      "carrying heavy hand-painted woven baskets",
+      "shoulders tilting naturally under real weight",
+      "walking closely beneath one shared umbrella",
+      "exchanging a brief, tired but affectionate smile"
+    ],
+    "interaction": "close physical proximity showing mutual support and care",
+    "gender_rule": "preserve original genders from input image"
+  },
+  
+  "Camera": {
+    "shot_type": "medium-wide shot",
+    "angle": "eye-level",
+    "movement": "slow, steady tracking alongside the couple"
+  },
+  
+  "Time": {
+    "life_stage": "early adulthood",
+    "time_of_day": "overcast afternoon"
+  },
+  
+  "Light": {
+    "quality": "soft diffused light filtered through clouds",
+    "direction": "top-down ambient lighting",
+    "color_tone": "muted warm earth tones"
+  },
+  
+  "Emotion": [
+    "shared resilience",
+    "early love",
+    "fatigue",
+    "quiet hope"
+  ],
+  
+  "Pace": {
+    "overall": "slow and grounded",
+    "character_motion": "weight-influenced steps, subtle body sway",
+    "environment": "gentle rain movement, calm atmosphere"
+  },
+  
+  "Constraints": {
+    "duration": "5-10 seconds",
+    "visual_style": "cinematic painterly realism",
+    "movement_rules": "gravity-accurate motion only, no exaggeration",
+    "identity_rule": "do not change gender",
+    "negative_prompt": [
+      "photorealistic",
+      "2D flat anime",
+      "high contrast",
+      "sharp black outlines",
+      "shiny plastic materials",
+      "generic big-studio 3D look",
+      "motion blur artifacts",
+      "messy brushstrokes",
+      "text",
+      "watermark",
+      "dialogue bubbles"
+    ]
+  }
+}
