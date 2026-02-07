@@ -1,0 +1,90 @@
+create image  1. The Opening: The Golden Orchard
+Subject: An elderly indian couple with soft, simplified 3D features; the wife’s skin has subtle, painterly wrinkles and a matte texture.
+
+Composition: A slow-dolly tracking shot that moves laterally through tangerine branches before settling on the couple.
+
+Action: Sitting on a mossy stone wall; the wife’s steady hands peel a vibrant tangerine with fluid, weight-based 3D animation.
+
+Location: A lush orchard at the edge of a cliff; stylized, swaying grass and soft-edged trees.
+
+Style: Stylized 3D production with painterly surface shaders, no outlines, soft-brushed textures inspired by Flow (2024).
+
+Aesthetics: Low-contrast golden hour; warm orange light wrapping around the edges of characters; ethereal and serene atmosphere. maintain the same ratio as per uploaded image
+
+
+create image, aspect ratio as per uploaded image - The Flashback: The Shelter
+Subject: The young indian couple, hair and clothes appearing damp with a matte, non-reflective "wet" shader.
+
+Composition: A static close-up shot with the camera slightly handheld to simulate natural breathing.
+
+Action: Huddled under a single, small, transparent umbrella; rain hits the surface in stylized, glowing white ripples.
+
+Location: A village path with simplified, blocky architecture.
+
+Style: Meticulously crafted 3D; rain is animated as glowing streaks rather than realistic droplets.
+
+Aesthetics: Cool indigo and teal lighting; soft-focus background; intimate and rhythmic movement; "glow" effect on highlights.
+
+
+create image, aspect ratio as per uploaded image -  The Flashback: The Shared Burden
+Subject: Younger versions of the indian couple; athletic but lean builds, wearing textured, simple canvas work clothes.
+
+Composition: A dynamic low-angle follow-shot, moving at the same pace as the characters to create a sense of shared journey.
+
+Action: Carrying heavy, hand-painted woven baskets; their shoulders tilt realistically under the weight; they exchange a brief, tired smile.
+
+Location: A dusty, sun-baked path through a simplified green grove.
+
+Style: Painterly 3D with "baked" lighting; environment looks like a moving oil painting.
+
+Aesthetics: High-summer heat haze; vibrant green and earthy brown color palette; tactile and organic textures.
+
+
+
+create image, aspect ratio as per uploaded image - The Present: The Connection
+Subject: The elderly indian couple’s hands and faces; emphasis on the "painterly" light-wrap on their skin.
+
+Composition: A shallow-focus over-the-shoulder shot that pulls focus from the tangerine slice to the husband's kind eyes.
+
+Action: HUSBAND HOLDS THE TANGERINE SLICE.The husband takes a slice of tangerine; the movement is slow, deliberate, and carries "physical weight."
+
+Location: The stone wall at deep twilight.
+
+Style: 3D animation with a "hand-keyed" feel; avoiding the smoothness of motion capture.
+
+Aesthetics: Warm, amber-toned lighting; glistening but stylized fruit textures; deeply emotional "acting" through subtle eye movements.
+
+
+create image, aspect ratio as per uploaded image - The Finale: The Horizon
+Subject: The elderly indian couple as two soft-edged silhouettes leaning against each other,Sitting on a mossy stone wall and watching the horizon;  weight-based 3D animation.
+
+Composition: An extreme wide crane shot that slowly rises and pulls back, revealing the vastness of the ocean and the sun disappearing.
+
+Action: They remain still, watching the horizon; the light reflects off the leaves in painterly dabs.
+
+Location: A cliffside orchard overlooking a vast, stylized sea with rolling, low-poly waves.
+
+Style: High-art 3D production; minimalist environment but rich, layered lighting.
+
+Aesthetics: Vibrant "Flow-style" sunset with deep purples and fiery magentas; majestic and peaceful; fading slowly into a soft-focus blur.
+
+Negative Prompt: (Photorealistic, 2D flat anime, high contrast, sharp black outlines, shiny plastic materials, generic big-studio 3D look, motion blur artifacts, messy brushstrokes, text, watermark, dialogue bubbles).
+
+
+
+
+
+
+ create image, aspect ratio as per uploaded image --The Golden Orchard
+Subject: An tangerine tree with soft, simplified 3D features;
+Composition: A slow-dolly tracking shot that moves laterally through tangerine branches before settling.
+Action: zoom in a vibrant tangerine with fluid, weight-based 3D animation.
+
+Location: A lush orchard at the edge of a cliff; stylized, swaying grass and soft-edged trees.
+
+Style: Stylized 3D production with painterly surface shaders, no outlines, soft-brushed textures inspired by Flow (2024).
+
+Aesthetics: Low-contrast golden hour; warm orange light wrapping around the edges of characters; ethereal and serene atmosphere.
+
+
+
