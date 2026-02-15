@@ -1,0 +1,30 @@
+# Flask API Backend
+flask
+flask-cors
+werkzeug
+
+# Streamlit Frontend
+streamlit
+pandas # Skip - will install compatible version
+plotly  # Skip - will install compatible version
+
+# LangChain and RAG
+langchain
+langchain-community
+faiss-cpu  # May not have Python 3.13 wheels yet
+openai
+tiktoken
+
+# Document Processing
+PyPDF2
+pytesseract
+Pillow
+
+# Utilities
+python-dotenv
+requests
+
+# Let pip find compatible versions
+numpy
+pandas
+plotly
